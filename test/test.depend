@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1465000528 source:c:\database\test\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+	<vector>
+	<algorithm>
+	"extmem.h"
+
+1465000405 c:\database\test\extmem.h
+	<cstdlib>
+	<cstdio>
+	<cstring>
+

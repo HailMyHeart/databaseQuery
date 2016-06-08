@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1464975716 source:c:\database\inquiryalgorithm\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<time.h>
+	<vector>
+	<algorithm>
+	"extmem.h"
+
+1464674257 c:\database\inquiryalgorithm\extmem.h
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1464103851 source:c:\database\inquiryalgorithm\extmem.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
